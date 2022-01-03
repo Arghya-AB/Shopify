@@ -1,6 +1,6 @@
 # Running the program with GUI
 
-1. Visit https://github.com/JazzBlaze/Shopify on your preferred browser. Click code -> download zip on top right.  
+1. Visit https://github.com/Arghya-AB/Shopify on your preferred browser. Click code -> download zip on top right.  
    ![tutorial1](https://raw.githubusercontent.com/Arghya-AB/Shopify/main/assets/tutorial1.png)
 2. Locate the downloaded file  
    ![tutorial2](https://raw.githubusercontent.com/Arghya-AB/Shopify/main/assets/tutorial2.png)
