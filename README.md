@@ -28,14 +28,14 @@ To run this and open the frontend in browser.
 Open terminal and copy paste the following.
 
 ```pwsh
-git clone https://github.com/JazzBlaze/Shopify.git
+git clone https://github.com/Arghya-AB/Shopify.git
 cd Shopify
-./util_scripts/deploy_and_view.ps1
+./deploy_and_view.ps1
 ```
 
 ## GUI way
 
-To run this with a GUI, please check [this link](https://github.com/JazzBlaze/Shopify/blob/main/assets/GUI_tutorial.md).
+To run this with a GUI, please check [this link](https://github.com/Arghya-AB/Shopify/blob/main/assets/GUI_tutorial.md).
 
 # For development
 
